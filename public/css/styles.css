@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+.bg-1{
+    background: #676EDE;
+}
+.bg-2{
+    background-color: #1C2A4B;
+}
+.kanit{
+    font-family: 'Kanit', sans-serif;
+}
+
+body{
+    background: #774949;
+}

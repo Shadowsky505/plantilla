@@ -1,0 +1,62 @@
+[{
+  "_id": {
+    "$oid": "6478c57ba7db4af1d7042a52"
+  },
+  "nombre": "ElGranChef",
+  "mesas": 24,
+  "direccion": "Av. Peru asnjadsadsjnadsjkads",
+  "updated_at": {
+    "$date": "2023-06-21T02:35:16.603Z"
+  },
+  "created_at": {
+    "$date": "2023-06-01T16:21:15.147Z"
+  },
+  "imagen_portada": "https://www.peru.travel/Contenido/Noticia/Imagen/pe/174/1.1/Principal/88.jpg",
+  "descripcion": "Este es un restaurante que tiene mas de 20 años en Arequipa"
+},
+{
+  "_id": {
+    "$oid": "6478c67ba7db4af1d7042a54"
+  },
+  "nombre": "La paloma hambrienta",
+  "mesas": 15,
+  "direccion": "Calle las desiluciones 102",
+  "updated_at": {
+    "$date": "2023-06-01T16:25:31.823Z"
+  },
+  "created_at": {
+    "$date": "2023-06-01T16:25:31.823Z"
+  },
+  "imagen_portada": "https://idegrafico.com/wp-content/uploads/2017/03/Las-imagenes-raw-son-los-negativos-digitales.jpg"
+},
+{
+  "_id": {
+    "$oid": "6478c6a0a7db4af1d7042a55"
+  },
+  "nombre": "LA CANTUTA",
+  "mesas": 10,
+  "direccion": "YANAHUARA 101 AV GA",
+  "updated_at": {
+    "$date": "2023-06-01T16:26:08.195Z"
+  },
+  "created_at": {
+    "$date": "2023-06-01T16:26:08.195Z"
+  },
+  "imagen_portada": "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/07/246288-cuando-usar-jpg-gif-png-raw-otros-formatos-imagen.png?tf=828x"
+},
+{
+  "_id": {
+    "$oid": "64932692346513e2080f0fd6"
+  },
+  "nombre": "LOS PANCHOS",
+  "descripcion": "El mejor restaurante mas barato que podras encontrar",
+  "mesas": "30",
+  "direccion": "Calle las fresias 102 San martin de socabaya",
+  "imagen_portada": null,
+  "updated_at": {
+    "$date": "2023-06-21T16:34:26.211Z"
+  },
+  "created_at": {
+    "$date": "2023-06-21T16:34:26.211Z"
+  }
+}]

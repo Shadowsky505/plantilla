@@ -1,0 +1,133 @@
+[{
+  "_id": {
+    "$oid": "649087b4ac794018b1019fb2"
+  },
+  "name": "Piero Valentino Noa Chahuayo",
+  "email": "piero_201612@hotmail.com",
+  "password": "$2y$10$zNOVtSKWep8TSitqJUlUr./9dWQg.YYexEsl9l8sodQtLfCqiLfSS",
+  "updated_at": {
+    "$date": "2023-06-19T16:52:04.318Z"
+  },
+  "created_at": {
+    "$date": "2023-06-19T16:52:04.318Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64909959ac794018b1019fb5"
+  },
+  "name": "Nicolas Palma",
+  "email": "nicopalma@hotmail.com",
+  "password": "$2y$10$QfqN0I41uPGOTEHyqm7HfOJMo7Gyz7id1K2lvMdrdv6OYryI4v0mC",
+  "updated_at": {
+    "$date": "2023-06-19T18:07:21.949Z"
+  },
+  "created_at": {
+    "$date": "2023-06-19T18:07:21.949Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "649087b4ac794018b1019fb1"
+  },
+  "name": "NICOLAS PALMA",
+  "email": "nicolaspalmera@hotmail.com",
+  "role": "cliente",
+  "password": "$2y$10$zNOVtSKWep8TSitqJUlUr./9dWQg.YYexEsl9l8sodQtLfCqiLfSS",
+  "updated_at": {
+    "$date": "2023-06-19T16:52:04.318Z"
+  },
+  "created_at": {
+    "$date": "2023-06-19T16:52:04.318Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "649087b4ac794018b1019fb5"
+  },
+  "name": "Andre Chuquimamani",
+  "email": "andreachu@hotmail.com",
+  "role": "empleado",
+  "password": "$2y$10$zNOVtSKWep8TSitqJUlUr./9dWQg.YYexEsl9l8sodQtLfCqiLfSS",
+  "updated_at": {
+    "$date": "2023-06-19T16:52:04.318Z"
+  },
+  "created_at": {
+    "$date": "2023-06-19T16:52:04.318Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "649087b4ac794018b1019fc4"
+  },
+  "name": "Miguel Angel Ticona",
+  "email": "miguelt@hotmail.com",
+  "role": "cliente",
+  "password": "$2y$10$zNOVtSKWep8TSitqJUlUr./9dWQg.YYexEsl9l8sodQtLfCqiLfSS",
+  "updated_at": {
+    "$date": "2023-06-19T16:52:04.318Z"
+  },
+  "created_at": {
+    "$date": "2023-06-19T16:52:04.318Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "649087b4ac794018b1019fb9"
+  },
+  "name": "Hash Ketchup",
+  "email": "hashk@hotmail.com",
+  "role": "empleado",
+  "password": "$2y$10$zNOVtSKWep8TSitqJUlUr./9dWQg.YYexEsl9l8sodQtLfCqiLfSS",
+  "updated_at": {
+    "$date": "2023-06-19T16:52:04.318Z"
+  },
+  "created_at": {
+    "$date": "2023-06-19T16:52:04.318Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "649087b4ac794018b1019fb8"
+  },
+  "name": "Gerardo Apaza",
+  "email": "gerardoa@hotmail.com",
+  "role": "empleado",
+  "password": "$2y$10$zNOVtSKWep8TSitqJUlUr./9dWQg.YYexEsl9l8sodQtLfCqiLfSS",
+  "updated_at": {
+    "$date": "2023-06-19T16:52:04.318Z"
+  },
+  "created_at": {
+    "$date": "2023-06-19T16:52:04.318Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "649087b4ac794018b1019fb7"
+  },
+  "name": "Paloma Yuana",
+  "email": "palomay@hotmail.com",
+  "role": "cliente",
+  "password": "$2y$10$zNOVtSKWep8TSitqJUlUr./9dWQg.YYexEsl9l8sodQtLfCqiLfSS",
+  "updated_at": {
+    "$date": "2023-06-19T16:52:04.318Z"
+  },
+  "created_at": {
+    "$date": "2023-06-19T16:52:04.318Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "649087b4ac794018b1019fb6"
+  },
+  "name": "Leonor Chahuayo",
+  "email": "leonorc@hotmail.com",
+  "role": "cliente",
+  "password": "$2y$10$zNOVtSKWep8TSitqJUlUr./9dWQg.YYexEsl9l8sodQtLfCqiLfSS",
+  "updated_at": {
+    "$date": "2023-06-19T16:52:04.318Z"
+  },
+  "created_at": {
+    "$date": "2023-06-19T16:52:04.318Z"
+  }
+}]
